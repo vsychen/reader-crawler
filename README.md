@@ -8,7 +8,8 @@ Node.js
   1. Initialize the server
      1. Open your console.
      2. Go to reader-crawler folder.
-     3. Run ```npm run start```
+     3. Download the libraries needed, running ```npm install```
+     4. Run the server, with ```npm run start```
   2. Send the first URL to the server
      1. Open your browser
      2. Make a GET request to the URL ```localhost:<port>/crawl?url=<url>&title=<title>&chapters=<chapters>``` where
