@@ -22,5 +22,8 @@ Node.js
 [Victor Sin Yu Chen](https://github.com/vsychen)  
 Center of Informatics (CIn), UFPE
 
+# Credits
+[Stephen, 'Net Instructions](http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-javascript-and-node-js/)
+
 # License
 [The MIT License](https://raw.githubusercontent.com/vsychen/reader-crawler/master/LICENSE)
