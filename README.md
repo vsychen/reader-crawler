@@ -16,8 +16,8 @@ Node.js
         * ```<port>``` is the port your server is listening (default is 8888)
         * ```<url>``` is the initial url
         * ```<title>``` is something in the page title to identify the useful URLs from the trash (a good choice would be... the novel's title)
-        * ```<chapters>``` is the approximate amout of chapters the novel has
-        * ```<encoding>``` is the encode the page has (it is optional, and the default is GBK)
+        * ```<chapters>``` is the approximate amount of chapters the novel has
+        * ```<encoding>``` is the encoding the page has (it is optional, and the default is GBK)
 
 # Author
 [Victor Sin Yu Chen](https://github.com/vsychen)  
